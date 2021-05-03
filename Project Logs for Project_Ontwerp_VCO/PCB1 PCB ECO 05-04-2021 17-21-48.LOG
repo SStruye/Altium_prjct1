@@ -1,0 +1,56 @@
+Added Member To Class: ClassName=VCO_schematic Member=Component * AS3340
+Added Member To Class: ClassName=VCO_schematic Member=Component 1V/oct-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component C5
+Added Member To Class: ClassName=VCO_schematic Member=Component C6
+Added Member To Class: ClassName=VCO_schematic Member=Component C7 (styrene)
+Added Member To Class: ClassName=VCO_schematic Member=Component C8
+Added Member To Class: ClassName=VCO_schematic Member=Component C9
+Added Member To Class: ClassName=VCO_schematic Member=Component C10
+Added Member To Class: ClassName=VCO_schematic Member=Component C13
+Added Member To Class: ClassName=VCO_schematic Member=Component D1 1N4148
+Added Member To Class: ClassName=VCO_schematic Member=Component D2 1N4148
+Added Member To Class: ClassName=VCO_schematic Member=Component D3 Zener
+Added Member To Class: ClassName=VCO_schematic Member=Component FM-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component NEG-Hard-Sync-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component POS-Hard-Sync-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component P power-header
+Added Member To Class: ClassName=VCO_schematic Member=Component R1
+Added Member To Class: ClassName=VCO_schematic Member=Component R2
+Added Member To Class: ClassName=VCO_schematic Member=Component R3
+Added Member To Class: ClassName=VCO_schematic Member=Component R4
+Added Member To Class: ClassName=VCO_schematic Member=Component R5
+Added Member To Class: ClassName=VCO_schematic Member=Component R6
+Added Member To Class: ClassName=VCO_schematic Member=Component R7
+Added Member To Class: ClassName=VCO_schematic Member=Component R8
+Added Member To Class: ClassName=VCO_schematic Member=Component R9
+Added Member To Class: ClassName=VCO_schematic Member=Component R10
+Added Member To Class: ClassName=VCO_schematic Member=Component R11
+Added Member To Class: ClassName=VCO_schematic Member=Component R12
+Added Member To Class: ClassName=VCO_schematic Member=Component R13
+Added Member To Class: ClassName=VCO_schematic Member=Component R14
+Added Member To Class: ClassName=VCO_schematic Member=Component R15
+Added Member To Class: ClassName=VCO_schematic Member=Component R16
+Added Member To Class: ClassName=VCO_schematic Member=Component R17
+Added Member To Class: ClassName=VCO_schematic Member=Component R18
+Added Member To Class: ClassName=VCO_schematic Member=Component R19
+Added Member To Class: ClassName=VCO_schematic Member=Component R20
+Added Member To Class: ClassName=VCO_schematic Member=Component R21
+Added Member To Class: ClassName=VCO_schematic Member=Component R22
+Added Member To Class: ClassName=VCO_schematic Member=Component R23
+Added Member To Class: ClassName=VCO_schematic Member=Component R24
+Added Member To Class: ClassName=VCO_schematic Member=Component R25
+Added Member To Class: ClassName=VCO_schematic Member=Component R26
+Added Member To Class: ClassName=VCO_schematic Member=Component Saw-OUT
+Added Member To Class: ClassName=VCO_schematic Member=Component Soft-Sync-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component Square-OUT
+Added Member To Class: ClassName=VCO_schematic Member=Component SW1 A101SYCB04
+Added Member To Class: ClassName=VCO_schematic Member=Component  TL074CN
+Added Member To Class: ClassName=VCO_schematic Member=Component TR-A 100K
+Added Member To Class: ClassName=VCO_schematic Member=Component TR-B 10K
+Added Member To Class: ClassName=VCO_schematic Member=Component TR-C 10K
+Added Member To Class: ClassName=VCO_schematic Member=Component Triangle-OUT
+Added Member To Class: ClassName=VCO_schematic Member=Component VR1 freq-oct
+Added Member To Class: ClassName=VCO_schematic Member=Component VR2 freq-fine
+Added Member To Class: ClassName=VCO_schematic Member=Component VR3 freq-mod
+Added Member To Class: ClassName=VCO_schematic Member=Component VR4 PWM
+Added Member To Class: ClassName=VCO_schematic Member=Component VR5 CV-lvl

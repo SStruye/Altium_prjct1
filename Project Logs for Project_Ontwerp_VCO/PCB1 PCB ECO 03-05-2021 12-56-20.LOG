@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=Net1V/oct-IN_5 Pin=D3-1
+Removed Pin From Net: NetName=Net_5 Pin=D3-2
+Change Component Designator: OldDesignator=1V/oct NewDesignator=1V/oct-IN
+Change Component Designator: OldDesignator=NEG-Sync NewDesignator=NEG-Hard-Sync-IN
+Change Component Designator: OldDesignator=POS-Sync NewDesignator=POS-Hard-Sync-IN
+Change Component Designator: OldDesignator=Soft-Sync NewDesignator=Soft-Sync-IN
+Change Component Designator: OldDesignator=Square NewDesignator=Square-OUT
+Change Component Designator: OldDesignator=Triangle NewDesignator=Triangle-OUT
+Added Component: Designator=D3(DO-35)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4148.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1V/oct-IN_5 Pin=D3-1
+Added Pin To Net: NetName=Net_5 Pin=D3-2
+Added Member To Class: ClassName=VCO_schematic Member=Component * AS3340
+Added Member To Class: ClassName=VCO_schematic Member=Component 1V/oct-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component C5
+Added Member To Class: ClassName=VCO_schematic Member=Component C6
+Added Member To Class: ClassName=VCO_schematic Member=Component C7 (styrene)
+Added Member To Class: ClassName=VCO_schematic Member=Component C8
+Added Member To Class: ClassName=VCO_schematic Member=Component C9
+Added Member To Class: ClassName=VCO_schematic Member=Component C10
+Added Member To Class: ClassName=VCO_schematic Member=Component C13
+Added Member To Class: ClassName=VCO_schematic Member=Component CV-lvl VR-5
+Added Member To Class: ClassName=VCO_schematic Member=Component D1 1N4148
+Added Member To Class: ClassName=VCO_schematic Member=Component D2 1N4148
+Added Member To Class: ClassName=VCO_schematic Member=Component D3 Zener
+Added Member To Class: ClassName=VCO_schematic Member=Component FM-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component Freq-fine VR-2
+Added Member To Class: ClassName=VCO_schematic Member=Component Freq-mod VR-3
+Added Member To Class: ClassName=VCO_schematic Member=Component Freq-oct VR-1
+Added Member To Class: ClassName=VCO_schematic Member=Component NEG-Hard-Sync-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component POS-Hard-Sync-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component P power-header
+Added Member To Class: ClassName=VCO_schematic Member=Component PWM VR-4
+Added Member To Class: ClassName=VCO_schematic Member=Component R1
+Added Member To Class: ClassName=VCO_schematic Member=Component R2
+Added Member To Class: ClassName=VCO_schematic Member=Component R3
+Added Member To Class: ClassName=VCO_schematic Member=Component R4
+Added Member To Class: ClassName=VCO_schematic Member=Component R5
+Added Member To Class: ClassName=VCO_schematic Member=Component R6
+Added Member To Class: ClassName=VCO_schematic Member=Component R7
+Added Member To Class: ClassName=VCO_schematic Member=Component R8
+Added Member To Class: ClassName=VCO_schematic Member=Component R9
+Added Member To Class: ClassName=VCO_schematic Member=Component R10
+Added Member To Class: ClassName=VCO_schematic Member=Component R11
+Added Member To Class: ClassName=VCO_schematic Member=Component R12
+Added Member To Class: ClassName=VCO_schematic Member=Component R13
+Added Member To Class: ClassName=VCO_schematic Member=Component R14
+Added Member To Class: ClassName=VCO_schematic Member=Component R15
+Added Member To Class: ClassName=VCO_schematic Member=Component R16
+Added Member To Class: ClassName=VCO_schematic Member=Component R17
+Added Member To Class: ClassName=VCO_schematic Member=Component R18
+Added Member To Class: ClassName=VCO_schematic Member=Component R19
+Added Member To Class: ClassName=VCO_schematic Member=Component R20
+Added Member To Class: ClassName=VCO_schematic Member=Component R21
+Added Member To Class: ClassName=VCO_schematic Member=Component R22
+Added Member To Class: ClassName=VCO_schematic Member=Component R23
+Added Member To Class: ClassName=VCO_schematic Member=Component R24
+Added Member To Class: ClassName=VCO_schematic Member=Component R25
+Added Member To Class: ClassName=VCO_schematic Member=Component R26
+Added Member To Class: ClassName=VCO_schematic Member=Component Saw-OUT
+Added Member To Class: ClassName=VCO_schematic Member=Component Soft-Sync-IN
+Added Member To Class: ClassName=VCO_schematic Member=Component Square-OUT
+Added Member To Class: ClassName=VCO_schematic Member=Component SW1 A101SYCB04
+Added Member To Class: ClassName=VCO_schematic Member=Component  TL074CN
+Added Member To Class: ClassName=VCO_schematic Member=Component TR-A 100K
+Added Member To Class: ClassName=VCO_schematic Member=Component TR-B 10K
+Added Member To Class: ClassName=VCO_schematic Member=Component TR-C 10K
+Added Member To Class: ClassName=VCO_schematic Member=Component Triangle-OUT

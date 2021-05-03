@@ -1,0 +1,15 @@
+Change Component Comment : Designator=VR5 Old Comment=CV-lvl New Comment=VR-5
+Change Component Comment : Designator=VR2 Old Comment=freq-fine New Comment=VR-2
+Change Component Comment : Designator=VR3 Old Comment=freq-mod New Comment=VR-3
+Change Component Comment : Designator=VR1 Old Comment=freq-oct New Comment=VR-1
+Change Component Comment : Designator=VR4 Old Comment=PWM New Comment=VR-4
+Change Component Designator: OldDesignator=VR1 NewDesignator=Freq-oct
+Change Component Designator: OldDesignator=VR2 NewDesignator=Freq-fine
+Change Component Designator: OldDesignator=VR3 NewDesignator=Freq-mod
+Change Component Designator: OldDesignator=VR4 NewDesignator=PWM
+Change Component Designator: OldDesignator=VR5 NewDesignator=CV-lvl
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetCV-lvl_3
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetFreq-fine_3
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetPWM_1
+Change Net Name : Old Net Name=NetSW1_3 New Net Name=NetFreq-oct_3
+Added Member To Class: ClassName=VCO_schematic Member=Component  TL074CN
